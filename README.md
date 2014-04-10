@@ -1,4 +1,1 @@
-datasciencecoursera
-===================
-
-assignment
+README
